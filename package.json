@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/braxnu/git-squash-play/issues"
   },
-  "homepage": "https://github.com/braxnu/git-squash-play#readme"
+  "homepage": "https://github.com/braxnu/git-squash-play#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.4"
+  }
 }
